@@ -1,0 +1,16 @@
+f:\C sharp\Question_2\bin\Debug\net5.0\Question_2.exe
+f:\C sharp\Question_2\bin\Debug\net5.0\Question_2.deps.json
+f:\C sharp\Question_2\bin\Debug\net5.0\Question_2.runtimeconfig.json
+f:\C sharp\Question_2\bin\Debug\net5.0\Question_2.runtimeconfig.dev.json
+f:\C sharp\Question_2\bin\Debug\net5.0\Question_2.dll
+f:\C sharp\Question_2\bin\Debug\net5.0\ref\Question_2.dll
+f:\C sharp\Question_2\bin\Debug\net5.0\Question_2.pdb
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.csproj.AssemblyReference.cache
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.GeneratedMSBuildEditorConfig.editorconfig
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.AssemblyInfoInputs.cache
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.AssemblyInfo.cs
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.csproj.CoreCompileInputs.cache
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.dll
+f:\C sharp\Question_2\obj\Debug\net5.0\ref\Question_2.dll
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.pdb
+f:\C sharp\Question_2\obj\Debug\net5.0\Question_2.genruntimeconfig.cache
